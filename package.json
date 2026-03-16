@@ -18,5 +18,9 @@
   },
   "bin": {
     "dotdiff": "bin/cli.js"
+  },
+  "homepage": "https://github.com/idirdev/dotdiff",
+  "bugs": {
+    "url": "https://github.com/idirdev/dotdiff/issues"
   }
 }
